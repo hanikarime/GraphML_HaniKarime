@@ -1,15 +1,10 @@
 # Ignore everything
 *
 
-# Keep gitignore and README
+# Unignore gitignore and README
 !.gitignore
 !README.md
 
-# Keep assignment folder
+# Unignore the assignment folder and its contents
 !Assigment-1_HaniKarime/
-!Assigment-1_HaniKarime/GraphML_Assigment-1_Hanikarime_House Privacy.ipynb
-
-# Ignore checkpoints
-**/.ipynb_checkpoints/
-**/__pycache__/
-*.pyc
+!Assigment-1_HaniKarime/**
