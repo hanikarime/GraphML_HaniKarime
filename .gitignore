@@ -6,5 +6,7 @@
 !README.md
 
 # Unignore the assignment folder and its contents
-!Assigment-1_HaniKarime/
-!Assigment-1_HaniKarime/**
+!Assignment-1_HaniKarime/
+!Assignment-1_HaniKarime/**
+!Assignment-2_HaniKarime/
+!Assignment-2_HaniKarime/**
